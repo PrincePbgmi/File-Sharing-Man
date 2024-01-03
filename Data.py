@@ -1,6 +1,6 @@
 # Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# FROM File-Sharing-Man <github.com/PrincePbgmi/File-Sharing-Man/>
+# t.me/PAPI_CLIPS & t.me/KatoNxRaw
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Source Code: <a href='https://github.com/PrincePbgmi/File-Sharing-Man'>File-Sharing-Man v4</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by </b><a href='https://t.me/PAPI_CLIPS'>@KatoNxRaw</a>
 """
