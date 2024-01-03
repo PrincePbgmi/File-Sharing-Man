@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 #
-# Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Credits: @KatoNxRaw
+# FROM File-Sharing-Man <https://github.com/PrincePbgmi/File-Sharing-Man/>
+# t.me/PAPI_CLIPS & t.me/KatoNxRaw
 
 # start
 python3 main.py
