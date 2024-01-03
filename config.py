@@ -23,7 +23,7 @@ API_HASH = os.environ.get("API_HASH", "6ab638ec99f6e125a2a3092c587a890f")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002055925745"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "1724226635")
+OWNER = os.environ.get("OWNER", "KatoNxRaw")
 
 # Protect Content
 PROTECT_CONTENT = strtobool(os.environ.get("PROTECT_CONTENT", "False"))
