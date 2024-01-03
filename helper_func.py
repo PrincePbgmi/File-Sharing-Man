@@ -1,6 +1,6 @@
-# (©)Codexbotz
+# (©)KatoNxRaw
 # Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/PAPI_CLIPS & t.me/KatoNxRaw
 
 import asyncio
 import base64
